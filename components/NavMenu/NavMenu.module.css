@@ -1,0 +1,8 @@
+.banner {
+  background-image: url("https://th.bing.com/th/id/R.655d08badd8d3d39bdd9369feeb1fc9d?rik=uyMXtn1ivuqd%2fg&pid=ImgRaw&r=0");
+  background-color: red; /* Used if the image is unavailable */
+  /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
